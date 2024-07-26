@@ -1,0 +1,28 @@
+ 
+2:29:00
+
+
+addMovie methodunda id yi null yaptı, Güncelleme işlemini yazarken nedenini bilmiyorum.
+
+
+
+16.07.2024
+Crod işlemlerine,exception Handling yapıldı.
+1. EmptyFileException Classı yazıldı.
+2. FileExists Exception Classı yazıldı
+3. Global Exception Handler yazıldı.
+4. MovieNotFoundException Yazıldı.
+
+Pagination and Sorting
+Sayfalandırma ve sıralama yapılacak.
+
+getAllMoviesWithPagination service interface soyut methodu yazıldı.
+getAllMoviesWithPaginationAndSorting interface soyut methodu yazıldı.
+
+Utils
+
+--> Utils AppConstans yazıldı.
+
+--> gerekli bilgiler işlendi.
+
+-------------------------------

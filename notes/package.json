@@ -1,0 +1,92 @@
+[
+  {
+    "movieId": 1,
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "studio": "Castle Rock Entertainment",
+    "movieCast": ["Tim Robbins", "Morgan Freeman"],
+    "releaseYear": 1994,
+    "poster": "shawshank_redemption.jpg"
+  },
+  {
+    "movieId": 2,
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "studio": "Paramount Pictures",
+    "movieCast": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "releaseYear": 1972,
+    "poster": "godfather.jpg"
+  },
+  {
+    "movieId": 3,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "studio": "Warner Bros. Pictures",
+    "movieCast": ["Christian Bale", "Heath Ledger", "Michael Caine"],
+    "releaseYear": 2008,
+    "poster": "dark_knight.jpg"
+  },
+  {
+    "movieId": 4,
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "studio": "Miramax Films",
+    "movieCast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "releaseYear": 1994,
+    "poster": "pulp_fiction.jpg"
+  },
+  {
+    "movieId": 5,
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "studio": "Paramount Pictures",
+    "movieCast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "releaseYear": 1994,
+    "poster": "forrest_gump.jpg"
+  },
+  {
+    "movieId": 6,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "studio": "Warner Bros. Pictures",
+    "movieCast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "releaseYear": 2010,
+    "poster": "inception.jpg"
+  },
+  {
+    "movieId": 7,
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "studio": "Warner Bros. Pictures",
+    "movieCast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "releaseYear": 1999,
+    "poster": "matrix.jpg"
+  },
+  {
+    "movieId": 8,
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "studio": "20th Century Fox",
+    "movieCast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    "releaseYear": 1999,
+    "poster": "fight_club.jpg"
+  },
+  {
+    "movieId": 9,
+    "title": "Titanic",
+    "director": "James Cameron",
+    "studio": "Paramount Pictures",
+    "movieCast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+    "releaseYear": 1997,
+    "poster": "titanic.jpg"
+  },
+  {
+    "movieId": 10,
+    "title": "Avatar",
+    "director": "James Cameron",
+    "studio": "20th Century Fox",
+    "movieCast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+    "releaseYear": 2009,
+    "poster": "avatar.jpg"
+  }
+]

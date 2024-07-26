@@ -1,0 +1,38 @@
+spring:
+  datasource:
+    username: mert
+    password: 12345
+    url: jdbc:postgresql://localhost:5432/movies
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: "mertkacar5800@gmail.com"
+    password: "lvld szeh cfnl plcv"
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+
+project:
+  poster: posters/
+server:
+  port: 8181
+
+base:
+  url: "http://localhost:8181"
+
